@@ -3,7 +3,7 @@ clear temp files bat
 
 ## This is an <h2> 
   
-del %Temp%\*.* /S /F /Q
+`<del %Temp%\*.* /S /F /Q
 
 del C:\Windows\Temp\*.* /S /F /Q
 
@@ -20,4 +20,4 @@ echo Vse vremennyie faylyi i papki udaleny
 pause
 
 @echo ON
-`<addr>`
+>`
